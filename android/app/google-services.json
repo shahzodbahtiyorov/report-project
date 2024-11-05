@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "732489760890",
+    "project_id": "unired-business",
+    "storage_bucket": "unired-business.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732489760890:android:2a44a58d7adacfcced3bc3",
+        "android_client_info": {
+          "package_name": "com.unired_business"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv9HqrjlHvSdcSwscpVUut2qYA-Rnar3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
